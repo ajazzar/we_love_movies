@@ -27,3 +27,15 @@ In this Web Development project, I set up a database and built specific routes s
 - Write database migrations using Knex's migration tool
 
 - Deploy your backend server to a cloud service
+
+## API Routes
+
+- GET: /movies
+
+- GET: /movies/:movieId
+
+- GET: /theaters
+
+- PUT: /reviews/:reviewId
+
+- DELETE: /reviews/:reviewId
