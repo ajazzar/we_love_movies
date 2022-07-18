@@ -1,7 +1,6 @@
 # We_Love_Movies project
 
-In this Web Development project, I set up a database and built specific routes so that 
-users can gain access to data about movies, theaters, and reviews.
+In this Web Development project, I set up a database and built specific routes so that users can gain access to data about movies, theaters, and reviews.
 
 ## Project Tasks
 
@@ -27,4 +26,4 @@ users can gain access to data about movies, theaters, and reviews.
 
 - Write database migrations using Knex's migration tool
 
-- Deploy your backend server to a cloud service 
+- Deploy your backend server to a cloud service
